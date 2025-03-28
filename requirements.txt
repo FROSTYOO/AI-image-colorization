@@ -1,0 +1,16 @@
+# PyTorch & Deep Learning
+torch
+torchvision
+tqdm
+
+# FastAPI & Deployment
+fastapi
+uvicorn
+
+# Image Processing
+pillow
+numpy
+albumentations  # For better image augmentations
+
+# Extra Utilities
+matplotlib  # For visualizing colorized results
